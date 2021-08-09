@@ -1,8 +1,8 @@
 {
-  "name": "dateformator",
-  "version": "1.0.0",
+  "name": "dateformator1",
+  "version": "1.0.1",
   "description": "It format the date to short date type.",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
